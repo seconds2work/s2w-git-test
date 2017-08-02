@@ -1,0 +1,1 @@
+I created this file to test how to create files using git bash.
